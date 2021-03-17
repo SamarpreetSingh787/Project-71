@@ -40,6 +40,9 @@ display: table;
     padding: 5px;
     border: 1px solid linc7c7c7;
 }
+.travel_mainDiv img{
+    height:250px;
+}
 
 . rave _mainDiv img {
     width: 100%;
@@ -50,4 +53,30 @@ display: table;
 }
         .travel_mainDiv h5 , .travel_mainDiv p {
             margin-left: 20px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+      height: 300px;
+      width: 200px;
+  }
+.modal-body
+{
+    text-align: center
+}
+.p_modal
+  {
+      margin-top: 10px;
+}
+.book img{
+    height:300px;
+    width: 300px;
+}
+#details img{
+    height: 200px;
+    width: 200px;
+}
+.environment_li img{
+    height: 300px;
 }
